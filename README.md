@@ -12,7 +12,7 @@
 
 6、注意：开源版我们只提供基础框架和应用，功能或者插件都需要在应用市场下载后一键安装！
 
-7、开源版不提供安装服务、提供安装教程、如需安装需要付费安装！
+7、开源版不提供安装与技术服务、提供安装教程、如需安装需要付费安装！
 
 ![首页_全部展示](https://github.com/hanzaitu/hanzaitu-aigc/assets/129652683/fca010c8-4611-405b-8a16-d841e4df62c0)
 ![AI绘画](https://github.com/hanzaitu/hanzaitu-aigc/assets/129652683/a63883c5-a677-4954-9ccc-a53e84da14ba)
