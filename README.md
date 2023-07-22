@@ -14,6 +14,8 @@
 
 7、开源版不提供安装与技术服务、提供安装教程、如需安装需要付费安装！
 
+以下模版为开源默认模版
+
 ![首页_全部展示](https://github.com/hanzaitu/hanzaitu-aigc/assets/129652683/fca010c8-4611-405b-8a16-d841e4df62c0)
 ![AI绘画](https://github.com/hanzaitu/hanzaitu-aigc/assets/129652683/a63883c5-a677-4954-9ccc-a53e84da14ba)
 ![Ai聊天_插件展开](https://github.com/hanzaitu/hanzaitu-aigc/assets/129652683/08fb1c53-6f66-42c6-b5f7-7c842b6a603c)
