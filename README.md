@@ -6,7 +6,7 @@
 
 3、项目方向：热拔插应用化、插件化、自定义开发模版化，一键安装卸载！
 
-4、系统后端重构采用springboot微服务架构、前端采用Vue3 + Element-Plus+uniapp
+4、系统后端采用springboot微服务架构、前端采用Vue3 + Element-Plus+uniapp
 
 5、虽然开源 我们依然还是提供8个端pc+h5+安卓+iOS+win+Mac+小程序+平板适配
 
