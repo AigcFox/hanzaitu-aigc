@@ -23,7 +23,7 @@
 10、商用授权用户有专属微信群，版本优先更新升级及新功能优先测试！
 
 
-以下模版为开源默认模版，喜欢的给个⭐️
+以下图片为开源默认模版，喜欢的给个⭐️
 
 ![首页_全部展示](https://github.com/hanzaitu/hanzaitu-aigc/assets/129652683/fca010c8-4611-405b-8a16-d841e4df62c0)
 ![AI绘画](https://github.com/hanzaitu/hanzaitu-aigc/assets/129652683/a63883c5-a677-4954-9ccc-a53e84da14ba)
