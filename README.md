@@ -4,7 +4,7 @@
 
 1、前后端代码全部开源，会在GitHub发布，包括后期更新！
 
-2、系统后端采用springboot微服务架构、前端采用Vue+react native+uniapp
+2、系统后端采用springboot架构、前端采用Vue+react native+uniapp
 
 3、虽然开源 我们依然还是提供8个端pc+h5+安卓+iOS+win+Mac+小程序+平板（所有端不会一下出来，根据工作安排逐步提供下载）
 
