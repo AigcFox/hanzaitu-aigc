@@ -1,0 +1,5 @@
+hanzaitu-admin 			后台管理系统后端
+hanzaitu-admin-ui		后台管理系统前端
+hanzaitu-ai				前台web后端入口模块
+hanzaitu-web-ui			前台web前端代码
+hanzaitu-common			公共模块
