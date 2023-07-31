@@ -8,7 +8,7 @@
 
 憨仔兔AIGC- Java版开源项目简单说明！
 
-1、前后端代码全部开源，会在GitHub发布！
+1、前后端代码全部开源，会在GitHub发布！ 
 
 2、系统后端采用springboot、前端采用Vue+react native+uniapp
 
